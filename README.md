@@ -8,4 +8,4 @@ This is an AI chatbot webpage created during the Mindspark workshop.
 - Backend: To be implemented in C and lava script.
 ## Future Plans
 - Integrate backend functionality using C language and java script.
-- Enhance chatbot capabilities.
+- Enhance chatbot capabilities. 
